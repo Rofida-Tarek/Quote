@@ -1,0 +1,20 @@
+body{
+    background-color:#222;
+    color: white;
+}
+h1{
+    font-size: 7bu0px;
+    color: teal;
+}
+p{
+    font-size: 35px;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: teal;
+    color: white;
+}
+button:hover{
+    background-color: #9ED2BE;
+}
